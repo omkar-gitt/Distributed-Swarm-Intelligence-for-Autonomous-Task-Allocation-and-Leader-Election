@@ -134,6 +134,10 @@ python run_sim.py
 
 (Windows users may use py run_sim.py)
 
+
+<img width="519" height="349" alt="image" src="https://github.com/user-attachments/assets/1e99f9ca-c0fb-4dd0-b3da-8c6b2b8b9904" />
+
+
 ## 🔌 Integration with SWARMBENCH-30+
 
 The core logic is simulator-agnostic. Integration with SWARMBENCH-30+ requires replacing mock communication and observation interfaces with simulator APIs while keeping the leader election and task allocation logic unchanged.
